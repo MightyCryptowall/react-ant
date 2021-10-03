@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "John Jones",
+      "email": "johnjones@something.com",
+      "gender": "male",
+      "hobbies": [
+        "Writing",
+        "Coding"
+      ],
+      "review": 32,
+      "notificaiton": true,
+      "id": 1
+    }
+  ]
+}
